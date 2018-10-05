@@ -1,4 +1,5 @@
 site_name: FabLab Dokumentation
 pages:
 - Übersicht: index.md
+- Die Drucker: drucker.md
 theme: readthedocs

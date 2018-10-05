@@ -12,3 +12,6 @@ Unser GitHub-Repository lautet [https://github.com/fablab-liechtenstein/Docs](ht
 Die Dokumentation ist im Markdown-Format. Sie lässt sich so einfach bearbeiten und mehrere Personen können gleichzeitig daran arbeiten.
 
 Eine [Übersicht zu Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) findet sich im Internet.
+
+### Kleiner Titel
+Das ist ein Text.

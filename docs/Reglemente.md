@@ -5,7 +5,7 @@ Wir wollen mit möglichst wenigen Regeln zurechtkommen. Bitte beachte die überg
 
 ## Die FabCharta
 
-**Was ist ein FabLab?**
+**Was ist ein FabLab?**  
 FabLabs sind ein globales Netzwerk lokaler Labs, die Erfindergeist fördern, indem sie Zugang zu digitalen Fabrikationsmaschinen bieten.
 
 **Was hat's in einem FabLab?**

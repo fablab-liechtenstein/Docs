@@ -2,5 +2,5 @@ site_name: FabLab Dokumentation
 pages:
 - Übersicht: index.md
 - Die Drucker: drucker.md
-- Die Hausregeln: Hausregeln.md
+- Reglemente: Reglemente.md
 theme: readthedocs

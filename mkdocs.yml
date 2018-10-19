@@ -1,6 +1,6 @@
 site_name: FabLab Dokumentation
 pages:
 - Übersicht: index.md
-- Kurzanleitungen 3D-Druck: drucker_kurz.md
+- Kurzanleitungen 3D-Druck: druckerkurz.md
 - Reglemente: Reglemente.md
 theme: readthedocs

@@ -30,7 +30,7 @@
 - Gerät einschalten
 - Material laden (Menüführung am Gerät beachten):
 
-  - Material 2: Rolle einsetzen (original Ultimaker Material wird automatisch erkannt, dauert einen Moment!), Materialende mit Seitenschneider anschneiden, in Kanal einführen (Hebel nach oben drücken), so dass das Material ca. 5 cm oben herausschaut, Vorgang im Menü bestätigen
+  - Material 2: Rolle einsetzen (original Ultimaker Material wird automatisch erkannt, dauert einen Moment), Materialende mit Seitenschneider anschneiden, in Kanal einführen (Hebel nach oben drücken), so dass das Material ca. 5 cm oben herausschaut, Vorgang im Menü bestätigen
   - Material 1: Gleiches vorgehen wie oben!
 
 - Falls die Druckplatte nicht ganz sauber ist, noch einmal reinigen, gegebenenfalls Haftflüssigkeit auftragen (in Wasser gelöstes PVA)

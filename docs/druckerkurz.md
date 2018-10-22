@@ -4,7 +4,7 @@
 ## Ultimaker Original+
 
 - Material laden: Filament einfädeln und ganz durchschieben, bis es im Druckkopf ankommt
-- Feeder schliessen
+- Feeder schliessen:
 
   - Anpressrolle hochklappen und anpressen
   - Hebelchen runterdrücken und um 90° kippen
@@ -28,7 +28,7 @@
 ## Ultimaker 3
 
 - Gerät einschalten
-- Material laden (Menüführung am Gerät beachten)
+- Material laden (Menüführung am Gerät beachten):
 
   - Material 2: Rolle einsetzen (original Ultimaker Material wird automatisch erkannt, dauert einen Moment!), Materialende mit Seitenschneider anschneiden, in Kanal einführen (Hebel nach oben drücken), so dass das Material ca. 5 cm oben herausschaut, Vorgang im Menü bestätigen
   - Material 1: Gleiches vorgehen wie oben!

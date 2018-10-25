@@ -11,15 +11,18 @@
   	- Evtl. in Wasser gelöstes PVA mit weichem Lappen, Spatel
   	- SD-Card mit g-code
 	
+	
 - Drucker vorbereiten:
 
   	- Falls die Druckplatte nicht ganz sauber ist, noch einmal reinigen, gegebenenfalls Haftflüssigkeit auftragen (in Wasser gelöstes PVA)
 	- Material laden: Filament einfädeln und ganz durchschieben, bis es im Druckkopf ankommt
 	
+	
 - Feeder schliessen:
 
   	- Anpressrolle hochklappen und anpressen
   	- Hebelchen runterdrücken und um 90° kippen
+
 
 - Steckerleiste und Schalter an der Seite einschalten
 - Am Ulticontroller-Menü Prepare > Preheat PLA1 wählen
@@ -31,6 +34,7 @@
 
   	- Objekt vorsichtig von der Druckplatte lösen, nachdem diese auf mindestens 30°C abgekühlt ist.
   	- Feeder öffnen (Siehe Punkt 2., umgekehrte Reihenfolge!), Filament herausziehen und versorgen 
+
 
 - Gerät abschalten und/oder mittels Schalter an der Steckerleiste ganz vom Netz trennen
 - Druckplatte reinigen
@@ -47,22 +51,26 @@
   	- In Wasser gelöstes PVA mit weichem Lappen, Spatel
   	- SD-Card/USB-Stick mit g-code, wenn nicht über Netz gedruckt wird
 	
+	
 - Drucker vorbereiten:
 
 	- Steckerleiste und Schalter hinten einschalten
   	- Wenn Menü und Beleuchtung an, mit Drehschalter Position wählen (drehen und drücken)
   	- Falls die Druckplatte nicht ganz sauber ist, noch einmal reinigen, gegebenenfalls Haftflüssigkeit auftragen (in Wasser gelöstes PVA)
- 
+	
+	
 - Material laden (Menüführung am Gerät beachten):
 
   	- Material 2: Rolle einsetzen (original Ultimaker Material wird automatisch erkannt), Materialende mit Seitenschneider anschneiden, in Kanal einführen (Hebel nach oben drücken), so dass das Material ca. 5 cm oben herausschaut, sobald Material extrudiert wird, Vorgang im Menü bestätigen
   	- Material 1: Gleiches vorgehen wie oben!
+	
 
 - Druckauftrag per Cura an den Drucker senden (LAN-Verbindung), Übertragung per USB-Speicherstick ebenfalls möglich
 - Nach dem Druck:
 
   	- Objekt vorsichtig von der Druckplatte lösen, nachdem diese auf mindestens 30°C abgekühlt ist.
-  	- Filament entladen (gemäss Menüführung am Gerät) und versorgen 
+  	- Filament entladen (gemäss Menüführung am Gerät) und versorgen
+	
 
 - Gerät abschalten und/oder mittels Schalter an der Steckerleiste ganz vom Netz trennen
 - Druckplatte reinigen

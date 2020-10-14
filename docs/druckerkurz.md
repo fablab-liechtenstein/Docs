@@ -71,5 +71,5 @@
 
 ## Anwendung von Cura
 
-Eine ausführliche Anleitung findest du hier: [https://fablab-luzern.ch/wp-content/uploads/2020/03/CURA-Anleitung-A4-2_0.pdf]  
+Eine ausführliche Anleitung findest du hier: https://fablab-luzern.ch/wp-content/uploads/2020/03/CURA-Anleitung-A4-2_0.pdf  
 Bei der Nutzung des Ultimaker Original+ empfiehlt es sich, mit den benutzerdefinierten Einstellungen gemäss PDF-Dokument zu arbeiten. Bei der Arbeit mit dem Ultimaker 3 kann man sich eher auf die empfohlenen Einstellungen verlassen.
